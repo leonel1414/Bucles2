@@ -71,3 +71,12 @@ switch (hoy) {
         Console.WriteLine("Ese dia no existe");
         break;
 }
+
+//CONTINUE
+for (int z =0; z <10; z++) {
+    Console.WriteLine(z);
+    if (z<5) {
+        Console.WriteLine("z es mejor que 5");
+        continue;
+    }
+}
