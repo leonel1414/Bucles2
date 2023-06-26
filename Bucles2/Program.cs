@@ -53,7 +53,7 @@ else
 */
 
 //SWITCH
-
+/*
 Console.WriteLine("¿Que dia es hoy?");
 string hoy = Console.ReadLine();
 
@@ -80,3 +80,4 @@ for (int z =0; z <10; z++) {
         continue;
     }
 }
+*/
